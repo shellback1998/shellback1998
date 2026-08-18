@@ -6,13 +6,13 @@ I'm an engineering technology professional with more than **20 years of experien
 
 I'm currently expanding my software development skills through **Scrimba**, focusing on **JavaScript and full-stack development**, while continuing to grow my knowledge of **Python and C#**.
 
-I enjoy learning how software can be used to solve real-world problems, automate repetitive processes, work with engineering data, and turn ideas into useful applications.
+I enjoy exploring how software can solve real-world problems, automate repetitive processes, work with engineering data, and turn ideas into useful applications.
 
 * 🧠 **What I build:** Web applications, automation tools, data solutions, and projects that solve real-world problems
 * 🎯 **What I care about:** Clean code, automation, engineering technology, data, and continuous learning
 * 🧩 **Tech I'm using:** JavaScript, Node.js, HTML, CSS, Python, C#, Git, and GitHub
 * 📚 **Currently learning:** Full-stack web development through Scrimba
-* 🚀 **Current goal:** Become increasingly proficient in modern software development and build applications that combine engineering experience with software
+* 🚀 **Current goal:** Combine my engineering experience with modern software development to build useful applications
 * 📡 **Fun fact:** When I'm not working with engineering systems or writing code, I'm an amateur radio operator (HAM)
 
 ---
@@ -50,66 +50,86 @@ I enjoy learning how software can be used to solve real-world problems, automate
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-I'm currently building projects as I work through my software development journey. This section will continue to grow as I complete new applications and explore new technologies.
+I'm building projects as I work through my software development journey, applying what I learn to increasingly complex applications.
 
 ### 🃏 Blackjack
 
-A JavaScript Blackjack game built while developing my understanding of JavaScript fundamentals, application logic, functions, arrays, and DOM manipulation.
+A browser-based Blackjack game built while developing my understanding of core JavaScript concepts and application logic.
 
-**Tech:** JavaScript • HTML • CSS
+**What I practiced:**
 
-[View my GitHub repositories →](https://github.com/shellback1998?tab=repositories)
+* JavaScript functions and application logic
+* Arrays and objects
+* Conditional logic
+* DOM manipulation
+* HTML and CSS
+* Git and GitHub workflow
+
+**Tech Stack:** `JavaScript` • `HTML` • `CSS`
+
+[**View My Repositories →**](https://github.com/shellback1998?tab=repositories)
+
+> More projects coming as I continue through the Scrimba Full-Stack Developer Path.
 
 ---
 
 ## 🎓 Learning With Scrimba
 
-I'm currently developing my modern web development skills through **Scrimba** and am also a **Scrimbassador**.
+I'm currently developing my modern web development skills through **Scrimba** and am proud to be a **Scrimbassador**.
 
-Scrimba's interactive approach allows you to pause lessons, edit the instructor's code directly, experiment with solutions, and continue learning without leaving the lesson.
+Scrimba's interactive learning environment lets you pause a lesson, modify the instructor's code directly, experiment with your own solutions, and continue learning without leaving the lesson.
 
-### Current Learning Focus
+### 📚 Current Learning Focus
 
-![JavaScript](https://img.shields.io/badge/Learn_JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge\&logo=nodedotjs\&logoColor=5FA04E)
+![Full Stack](https://img.shields.io/badge/Full--Stack_Development-B9F3FC?style=for-the-badge)
 
 **JavaScript • Web Development • Node.js • Full-Stack Development**
 
-### Interested in Scrimba?
+### 🚀 Interested in Learning With Scrimba?
+
+If you're interested in learning JavaScript, React, full-stack development, or other modern web technologies, check out Scrimba through my Scrimbassador link:
 
 [![Try Scrimba](https://img.shields.io/badge/Try_Scrimba-Start_Learning-B9F3FC?style=for-the-badge)](https://scrimba.com/?via=u4491a62)
 
 ---
 
-## 💡 From Engineering to Software Development
+## 💡 Engineering Meets Software Development
 
-My background is rooted in engineering technology and digital engineering, where I've spent more than two decades working with complex engineering applications, data, systems, and processes.
+My background is rooted in **engineering technology and digital engineering**, where I've spent more than two decades working with complex engineering applications, data, systems, and processes.
 
 Software development is a natural extension of that experience.
 
-I'm particularly interested in exploring how **software development, automation, APIs, data, and engineering systems** can work together to solve complex real-world problems.
+I'm particularly interested in the intersection of:
 
-My goal isn't simply to learn another programming language — it's to understand how to design and build useful software.
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with people who enjoy:
-
-* 💻 Software development
 * ⚙️ Engineering technology
+* 💻 Software development
 * 🤖 Automation
+* 🔗 APIs and system integration
 * 📊 Data and analytics
-* 🌐 Full-stack development
-* 📡 Amateur radio
-* 📚 Continuous learning
+* 🧠 Problem solving
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/scottmgaudet), check out what I'm building here on GitHub, or join me over on [Scrimba](https://scrimba.com/?via=u4491a62).
+I'm especially interested in exploring how software can automate engineering workflows, connect complex systems, improve access to engineering data, and solve practical problems.
+
+My goal isn't simply to learn another programming language — **it's to understand how to design and build useful software.**
 
 ---
 
-### 🚀 Always learning. Always building.
+## 🤝 Let's Build Something
 
-Thanks for stopping by!
+I'm always interested in connecting with developers, engineers, lifelong learners, and others working at the intersection of **software, engineering, automation, and data**.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/scottmgaudet), explore what I'm building on [GitHub](https://github.com/shellback1998), or learn alongside me on [Scrimba](https://scrimba.com/?via=u4491a62).
+
+---
+
+<p align="center">
+  <strong>🚀 Always learning. Always building.</strong>
+</p>
+
+<p align="center">
+  Thanks for stopping by!
+</p>
