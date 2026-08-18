@@ -43,7 +43,10 @@ I enjoy learning how software can be used to solve real-world problems, automate
 
 ## 📊 GitHub Stats
 
-![Scott's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shellback1998&show_icons=true)
+<p align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=shellback1998&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shellback1998&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
 ---
 
