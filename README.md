@@ -28,6 +28,8 @@ I enjoy exploring how software can solve real-world problems, automate repetitiv
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git\&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge\&logo=jetbrains\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 
 ---
 
@@ -52,7 +54,7 @@ I enjoy exploring how software can solve real-world problems, automate repetitiv
 
 ## 🚀 Featured Projects
 
-I'm building projects as I work through my software development journey, applying what I learn to increasingly complex applications.
+Here are a few projects I've built while expanding my software development skills through Scrimba. Each project has been deployed as a live application using Netlify.
 
 ### 🃏 Blackjack
 
@@ -66,12 +68,57 @@ A browser-based Blackjack game built while developing my understanding of core J
 * DOM manipulation
 * HTML and CSS
 * Git and GitHub workflow
+* Deploying a live application with Netlify
 
-**Tech Stack:** `JavaScript` • `HTML` • `CSS`
+**Tech Stack:** `JavaScript` • `HTML` • `CSS` • `Netlify`
 
-[**View My Repositories →**](https://github.com/shellback1998?tab=repositories)
+[**View Code →**](https://github.com/shellback1998/blackjack) • [**Live Demo →**](https://blackjack-smg.netlify.app/)
 
-> More projects coming as I continue through the Scrimba Full-Stack Developer Path.
+---
+
+### 📇 Leads Tracker
+
+A web-based leads tracking application that allows users to save and manage URLs. This project introduced me to persistent application data and working with a cloud-hosted realtime database.
+
+**What I practiced:**
+
+* JavaScript application logic
+* DOM manipulation
+* Event listeners
+* Working with user input
+* Persistent data
+* Firebase Realtime Database
+* Cloud-hosted application data
+* Deploying with Netlify
+
+**Tech Stack:** `JavaScript` • `HTML` • `CSS` • `Firebase Realtime Database` • `Netlify`
+
+[**View Code →**](https://github.com/shellback1998/chromeextension) • [**Live Demo →**](https://leads-tracker-smg.netlify.app/)
+
+---
+
+### 💼 Digital Business Card
+
+A responsive digital business card created as part of my front-end development journey. The project focuses on creating a clean personal profile using fundamental web technologies.
+
+**What I practiced:**
+
+* Semantic HTML
+* CSS styling
+* Page layout
+* Images and assets
+* Responsive web design
+* Git and GitHub workflow
+* Deploying a website with Netlify
+
+**Tech Stack:** `HTML` • `CSS` • `JavaScript` • `Netlify`
+
+[**View Code →**](https://github.com/shellback1998/businesscard) • [**Live Demo →**](https://business-card-smg.netlify.app/)
+
+---
+
+> More projects are coming as I continue through the Scrimba Full-Stack Developer Path.
+
 
 ---
 
