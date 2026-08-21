@@ -117,9 +117,28 @@ A responsive digital business card created as part of my front-end development j
 
 ---
 
+🎂 Birthday GIFt Site
+
+A fun, interactive birthday website built while developing my HTML and CSS skills. The project uses animated GIFs and hover effects to create an engaging birthday experience.
+
+What I practiced:
+
+Semantic HTML
+CSS styling and layout
+CSS hover effects
+Working with images and animated GIFs
+Classes and reusable styles
+Git and GitHub workflow
+Deploying a live website with Netlify
+
+Tech Stack: HTML • CSS • JavaScript • Netlify
+
+View Code → • Live Demo →
+
+---
+
 > More projects are coming as I continue through the Scrimba Full-Stack Developer Path.
-
-
+> 
 ---
 
 ## 🎓 Learning With Scrimba
