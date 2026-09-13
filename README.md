@@ -1,62 +1,301 @@
 # Hi, I'm Scott Gaudet 👋
 
-### Engineering Technology Professional • Developer • Lifelong Learner • Scrimbassador
+### Engineering Technology Professional • Developer • DevOps & Homelab Learner • Scrimbassador
 
-I'm an engineering technology professional with more than **20 years of experience** working with complex engineering systems, digital engineering platforms, data, and technology.
+I'm an engineering technology professional with more than 20 years of experience working with complex engineering systems, digital engineering platforms, data, and technology.
 
-I'm currently expanding my software development skills through **Scrimba**, focusing on **JavaScript and full-stack development**, while continuing to grow my knowledge of **Python and C#**.
+I'm expanding that background into modern software development, automation, DevOps, containerization, and infrastructure technologies.
 
-I enjoy exploring how software can solve real-world problems, automate repetitive processes, work with engineering data, and turn ideas into useful applications.
+My learning has grown from front-end development with **HTML, CSS, and JavaScript** into **Python, Docker, Ansible, CI/CD, Linux, Raspberry Pi, and Kubernetes/K3s**.
 
-* 🧠 **What I build:** Web applications, automation tools, data solutions, and projects that solve real-world problems
-* 🎯 **What I care about:** Clean code, automation, engineering technology, data, and continuous learning
-* 🧩 **Tech I'm using:** JavaScript, Node.js, HTML, CSS, Python, C#, Git, and GitHub
-* 📚 **Currently learning:** Full-stack web development through Scrimba
-* 🚀 **Current goal:** Combine my engineering experience with modern software development to build useful applications
-* 📡 **Fun fact:** When I'm not working with engineering systems or writing code, I'm an amateur radio operator (HAM)
+I learn best by building real systems, breaking them, troubleshooting them, documenting what happened, and then improving them.
+
+* 🧠 **What I build:** Web applications, automation tools, containerized applications, homelab infrastructure, and technical learning projects
+* ⚙️ **DevOps & Infrastructure:** Docker, Docker Compose, Ansible, GitHub Actions, GHCR, Linux, Tailscale, Kubernetes & K3s
+* 💻 **Development:** JavaScript, Node.js, HTML, CSS, Python & C#
+* 🥧 **Homelab:** Turing Pi / Raspberry Pi cluster, Linux VMs, networking, containers & Kubernetes
+* 📚 **Currently learning:** Kubernetes, K3s, CI/CD, infrastructure automation, Markdown, and full-stack development
+* 🎯 **Current goal:** Combine engineering experience, software development, automation, and DevOps to build useful real-world systems
+* 📡 **Fun fact:** When I'm not working with engineering systems, code, or my homelab, I'm an amateur radio operator
 
 ---
 
 ## 🛠️ My Toolkit
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge\&logo=nodedotjs\&logoColor=5FA04E)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge\&logo=css\&logoColor=1572B6)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![C%23](https://img.shields.io/badge/C%23-000000?style=for-the-badge\&logo=dotnet\&logoColor=512BD4)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge\&logo=jetbrains\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+### Development
+
+`JavaScript` • `Node.js` • `HTML` • `CSS` • `Python` • `C#`
+
+### DevOps & Automation
+
+`Docker` • `Docker Compose` • `Ansible` • `GitHub Actions` • `CI/CD` • `GitHub Container Registry`
+
+### Kubernetes & Infrastructure
+
+`Kubernetes` • `K3s` • `Linux` • `Ubuntu` • `Debian` • `Tailscale` • `SSH`
+
+### Homelab
+
+`Turing Pi` • `Raspberry Pi` • `VMware` • `ARM64` • `x86-64`
+
+### Development Tools
+
+`Git` • `GitHub` • `Visual Studio Code` • `JetBrains IDEs` • `Markdown`
 
 ---
 
-## 🌐 Connect With Me
+# 🧪 DevOps & Homelab Learning Lab
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Scott_Gaudet-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/scottmgaudet)
+I'm building a hands-on homelab to learn modern DevOps and infrastructure concepts rather than only studying them theoretically.
 
-[![Scrimba](https://img.shields.io/badge/Scrimba-My_Profile-B9F3FC?style=for-the-badge)](https://scrimba.com/?via=u4491a62)
+My lab combines:
 
-[![GitHub](https://img.shields.io/badge/GitHub-shellback1998-181717?style=for-the-badge\&logo=github)](https://github.com/shellback1998)
+```text
+GitHub
+   |
+   v
+GitHub Actions / CI
+   |
+   v
+Container Images
+   |
+   v
+GitHub Container Registry
+   |
+   v
+Ansible / Kubernetes
+   |
+   v
+Linux VMs + Turing Pi Cluster
+```
+
+The environment gives me a place to experiment with real deployment, networking, automation, container, and orchestration workflows.
+
+## 🥧 Turing Pi Cluster
+
+My homelab includes a multi-node Turing Pi / Raspberry Pi environment used for learning:
+
+* Linux administration
+* SSH and remote management
+* Docker
+* Docker Compose
+* Ansible
+* ARM64 containers
+* Networking
+* Cluster administration
+* Kubernetes worker-node concepts
+
+The environment is remotely accessible using **Tailscale**, while cluster traffic remains on the local network.
 
 ---
 
-## 📊 GitHub Stats
+# 🐳 Docker & Containerization
 
-<p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=shellback1998&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shellback1998&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+I've been using Docker to move beyond simply running containers and learn how complete multi-container applications are designed and operated.
+
+Topics I've practiced include:
+
+* Docker images and containers
+* Dockerfiles
+* Alpine and slim base images
+* Port publishing
+* Docker networking
+* Volumes and persistent data
+* Docker Compose
+* Container logs and troubleshooting
+* Multi-container application architecture
+* ARM64 vs AMD64 container architecture
+* Multi-platform container builds
 
 ---
 
-## 🚀 Featured Projects
+# 🗳️ Voting Application
 
-Here are a few projects I've built while expanding my software development skills through Scrimba. Each project has been deployed as a live application using Netlify.
+One of my primary DevOps learning projects is a multi-container voting application.
 
-### 🃏 Blackjack
+The application contains:
+
+```text
+Browser
+   |
+   v
+Python / Flask Vote App
+   |
+   v
+Redis
+   |
+   v
+Python Worker
+   |
+   v
+PostgreSQL
+   |
+   v
+Node.js Results App
+   |
+   v
+Browser
+```
+
+This project has become my test application for learning Docker, CI/CD, Ansible, container registries, multi-architecture builds, and eventually Kubernetes.
+
+### Technologies
+
+`Python` • `Flask` • `Redis` • `PostgreSQL` • `Node.js` • `Docker` • `Docker Compose`
+
+---
+
+# 🔄 CI/CD With GitHub Actions
+
+I built a GitHub Actions pipeline for the voting application to learn CI/CD through a real project.
+
+The pipeline currently performs:
+
+```text
+Git Push
+   |
+   v
+GitHub Actions
+   |
+   +--> Validate Docker Compose
+   |
+   +--> Build Containers
+   |
+   +--> Start Application
+   |
+   +--> Run Smoke Tests
+   |
+   +--> Build AMD64 + ARM64 Images
+   |
+   +--> Publish Images to GHCR
+```
+
+Topics I've practiced include:
+
+* GitHub Actions workflows
+* Automated Docker builds
+* Docker Compose validation
+* Runtime smoke testing
+* GitHub Container Registry
+* Buildx
+* QEMU
+* AMD64 and ARM64 images
+* Commit-based image tags
+* CI troubleshooting
+
+---
+
+# 🤖 Infrastructure Automation With Ansible
+
+I'm using Ansible to learn how infrastructure and application deployment can be automated rather than manually repeated across machines.
+
+My Ansible lab includes:
+
+* Inventories
+* Ad-hoc commands
+* Playbooks
+* Variables
+* Group variables
+* Loops
+* Conditionals
+* Roles
+* Handlers
+* Idempotency
+* Ansible Vault
+* Package management
+* Cluster health checks
+* Application deployment
+
+I've also used Ansible to deploy the voting application from **GitHub Container Registry to an ARM64 Turing Pi node**.
+
+---
+
+# ☸️ Kubernetes & K3s
+
+I'm currently learning Kubernetes using a dedicated **K3s control-plane VM**, with plans to add Turing Pi systems as ARM64 worker nodes.
+
+My Kubernetes learning started from the fundamentals rather than immediately deploying a large application.
+
+So far I've worked with:
+
+* Kubernetes clusters and nodes
+* Control planes
+* Pods
+* Deployments
+* ReplicaSets
+* Services
+* NodePort
+* ClusterIP
+* Labels and selectors
+* EndpointSlices
+* Scaling
+* Desired vs actual state
+* Self-healing
+* Rolling updates
+* Rollbacks
+* Declarative YAML configuration
+* `kubectl`
+* Git-based Kubernetes configuration
+
+One of my favorite demonstrations so far was deliberately deleting a Pod and watching Kubernetes automatically create a replacement to restore the desired replica count.
+
+### Current Kubernetes Architecture
+
+```text
+HP Windows Host
+│
+├── turing-manager VM
+│     └── Ansible / Docker / Cluster Administration
+│
+└── k8s-manager VM
+      └── K3s Control Plane
+              |
+              └── Turing Pi ARM64 Workers — coming next
+```
+
+Next topics include **ConfigMaps, Secrets, persistent storage, Ingress, worker nodes, monitoring, and eventually deploying the voting application to Kubernetes**.
+
+---
+
+# 📝 Technical Documentation
+
+Another part of this journey is learning to properly document what I build.
+
+I'm creating documentation for my labs using:
+
+* Markdown
+* GitHub READMEs
+* Architecture diagrams
+* Command references
+* Step-by-step lab documentation
+* Troubleshooting notes
+* Word and PDF reference guides
+
+I'm also learning Markdown itself so I can create and maintain technical documentation without relying entirely on generated documentation.
+
+---
+
+# 🚀 Featured Projects
+
+## 🗳️ Voting Application
+
+A multi-container application I'm using as the foundation for learning Docker, CI/CD, container registries, Ansible, ARM64 deployment, and eventually Kubernetes.
+
+**Tech Stack:** `Python` • `Flask` • `Redis` • `PostgreSQL` • `Node.js` • `Docker` • `GitHub Actions` • `GHCR` • `Ansible`
+
+---
+
+## ☸️ Turing K3s Lab
+
+My hands-on Kubernetes learning environment.
+
+The project documents Kubernetes concepts as I build them, beginning with Deployments, Pods, Services, scaling, self-healing, rolling updates, rollback, and declarative YAML.
+
+**Tech Stack:** `Kubernetes` • `K3s` • `Linux` • `YAML` • `Git` • `Turing Pi`
+
+---
+
+## 🃏 Blackjack
 
 A browser-based Blackjack game built while developing my understanding of core JavaScript concepts and application logic.
 
@@ -68,134 +307,100 @@ A browser-based Blackjack game built while developing my understanding of core J
 * DOM manipulation
 * HTML and CSS
 * Git and GitHub workflow
-* Deploying a live application with Netlify
+* Netlify deployment
 
 **Tech Stack:** `JavaScript` • `HTML` • `CSS` • `Netlify`
 
-[**View Code →**](https://github.com/shellback1998/blackjack) • [**Live Demo →**](https://blackjack-smg.netlify.app/)
-
 ---
 
-### 📇 Leads Tracker
+## 📇 Leads Tracker
 
-A web-based leads tracking application that allows users to save and manage URLs. This project introduced me to persistent application data and working with a cloud-hosted realtime database.
+A web-based leads tracking application that introduced me to persistent application data and cloud-hosted realtime databases.
 
 **What I practiced:**
 
 * JavaScript application logic
 * DOM manipulation
 * Event listeners
-* Working with user input
+* User input
 * Persistent data
 * Firebase Realtime Database
-* Cloud-hosted application data
-* Deploying with Netlify
+* Netlify deployment
 
-**Tech Stack:** `JavaScript` • `HTML` • `CSS` • `Firebase Realtime Database` • `Netlify`
-
-[**View Code →**](https://github.com/shellback1998/chromeextension) • [**Live Demo →**](https://leads-tracker-smg.netlify.app/)
+**Tech Stack:** `JavaScript` • `HTML` • `CSS` • `Firebase` • `Netlify`
 
 ---
 
-### 💼 Digital Business Card
+# 🎓 Continuous Learning
 
-A responsive digital business card created as part of my front-end development journey. The project focuses on creating a clean personal profile using fundamental web technologies.
+My learning path now spans several connected areas:
 
-**What I practiced:**
+```text
+Software Development
+        |
+        +--> JavaScript / Node.js
+        +--> Python
+        +--> C#
+        |
+        v
+Version Control
+        |
+        +--> Git
+        +--> GitHub
+        |
+        v
+Containers
+        |
+        +--> Docker
+        +--> Docker Compose
+        |
+        v
+Automation
+        |
+        +--> Ansible
+        |
+        v
+CI/CD
+        |
+        +--> GitHub Actions
+        +--> GHCR
+        |
+        v
+Container Orchestration
+        |
+        +--> Kubernetes
+        +--> K3s
+```
 
-* Semantic HTML
-* CSS styling
-* Page layout
-* Images and assets
-* Responsive web design
-* Git and GitHub workflow
-* Deploying a website with Netlify
-
-**Tech Stack:** `HTML` • `CSS` • `JavaScript` • `Netlify`
-
-[**View Code →**](https://github.com/shellback1998/businesscard) • [**Live Demo →**](https://business-card-smg.netlify.app/)
-
----
-
-🎂 Birthday GIFt Site
-
-A fun, interactive birthday website built while developing my HTML and CSS skills. The project uses animated GIFs and hover effects to create an engaging birthday experience.
-
-What I practiced:
-
-Semantic HTML
-CSS styling and layout
-CSS hover effects
-Working with images and animated GIFs
-Classes and reusable styles
-Git and GitHub workflow
-Deploying a live website with Netlify
-
-Tech Stack: HTML • CSS • JavaScript • Netlify
-
-View Code → • Live Demo →
-
----
-
-> More projects are coming as I continue through the Scrimba Full-Stack Developer Path.
-> 
----
-
-## 🎓 Learning With Scrimba
-
-I'm currently developing my modern web development skills through **Scrimba** and am proud to be a **Scrimbassador**.
-
-Scrimba's interactive learning environment lets you pause a lesson, modify the instructor's code directly, experiment with your own solutions, and continue learning without leaving the lesson.
-
-### 📚 Current Learning Focus
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge\&logo=nodedotjs\&logoColor=5FA04E)
-![Full Stack](https://img.shields.io/badge/Full--Stack_Development-B9F3FC?style=for-the-badge)
-
-**JavaScript • Web Development • Node.js • Full-Stack Development**
-
-### 🚀 Interested in Learning With Scrimba?
-
-If you're interested in learning JavaScript, React, full-stack development, or other modern web technologies, check out Scrimba through my Scrimbassador link:
-
-[![Try Scrimba](https://img.shields.io/badge/Try_Scrimba-Start_Learning-B9F3FC?style=for-the-badge)](https://scrimba.com/?via=u4491a62)
+I'm continuing my full-stack development training through **Scrimba** while using my homelab to gain practical experience with Linux, automation, DevOps, and Kubernetes.
 
 ---
 
-## 💡 Engineering Meets Software Development
+# 💡 Engineering Meets Software & DevOps
 
-My background is rooted in **engineering technology and digital engineering**, where I've spent more than two decades working with complex engineering applications, data, systems, and processes.
+My professional background is rooted in engineering technology and digital engineering, where I've spent more than two decades working with complex engineering applications, data, systems, and processes.
 
-Software development is a natural extension of that experience.
+Software development, automation, and DevOps are a natural extension of that experience.
 
 I'm particularly interested in the intersection of:
 
 * ⚙️ Engineering technology
 * 💻 Software development
 * 🤖 Automation
+* 🐳 Containers
+* ☸️ Kubernetes
 * 🔗 APIs and system integration
 * 📊 Data and analytics
 * 🧠 Problem solving
 
-I'm especially interested in exploring how software can automate engineering workflows, connect complex systems, improve access to engineering data, and solve practical problems.
+My goal isn't simply to learn another programming language or collect technologies.
 
-My goal isn't simply to learn another programming language — **it's to understand how to design and build useful software.**
-
----
-
-## 🤝 Let's Build Something
-
-I'm always interested in connecting with developers, engineers, lifelong learners, and others working at the intersection of **software, engineering, automation, and data**.
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/scottmgaudet), explore what I'm building on [GitHub](https://github.com/shellback1998), or learn alongside me on [Scrimba](https://scrimba.com/?via=u4491a62).
+I want to understand **how modern systems are designed, automated, deployed, operated, troubleshot, and improved**.
 
 ---
 
-<p align="center">
-  <strong>🚀 Always learning. Always building.</strong>
-</p>
+# 🌐 Connect With Me
 
-<p align="center">
-  Thanks for stopping by!
-</p>
+I'm always interested in connecting with developers, engineers, homelab enthusiasts, lifelong learners, and others working at the intersection of software, engineering, automation, and DevOps.
+
+🚀 **Always learning. Always building.**
