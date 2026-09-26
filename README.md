@@ -137,7 +137,7 @@ Node.js Results App
 Browser
 ```
 
-This project has become my test application for learning Docker, CI/CD, Ansible, container registries, multi-architecture builds, and eventually Kubernetes.
+This project has become my test application for learning Docker, CI/CD, Ansible, container registries, multi-architecture builds, and Kubernetes.
 
 ### Technologies
 
@@ -212,7 +212,7 @@ I've also used Ansible to deploy the voting application from **GitHub Container 
 
 # ☸️ Kubernetes & K3s
 
-I'm currently learning Kubernetes using a dedicated **K3s control-plane VM**, with plans to add Turing Pi systems as ARM64 worker nodes.
+I'm currently learning Kubernetes using a dedicated **K3s control-plane VM**, with seven Turing Pi systems serving as ARM64 worker nodes.
 
 My Kubernetes learning started from the fundamentals rather than immediately deploying a large application.
 
@@ -250,10 +250,10 @@ HP Windows Host
 └── k8s-manager VM
       └── K3s Control Plane
               |
-              └── Turing Pi ARM64 Workers — coming next
+              └── Seven Turing Pi ARM64 Workers
 ```
 
-Next topics include **ConfigMaps, Secrets, persistent storage, Ingress, worker nodes, monitoring, and eventually deploying the voting application to Kubernetes**.
+My labs now cover **ConfigMaps, Secrets, persistent storage, Ingress, worker nodes, and application deployments**. Next I'm adding **monitoring, GitOps, and cloud integration**.
 
 ---
 
@@ -279,7 +279,7 @@ I'm also learning Markdown itself so I can create and maintain technical documen
 
 ## 🗳️ Voting Application
 
-A multi-container application I'm using as the foundation for learning Docker, CI/CD, container registries, Ansible, ARM64 deployment, and eventually Kubernetes.
+A multi-container application I'm using as the foundation for learning Docker, CI/CD, container registries, Ansible, ARM64 deployment, and Kubernetes.
 
 **Tech Stack:** `Python` • `Flask` • `Redis` • `PostgreSQL` • `Node.js` • `Docker` • `GitHub Actions` • `GHCR` • `Ansible`
 
@@ -396,6 +396,47 @@ I'm particularly interested in the intersection of:
 My goal isn't simply to learn another programming language or collect technologies.
 
 I want to understand **how modern systems are designed, automated, deployed, operated, troubleshot, and improved**.
+
+---
+
+# ☁️ Multi-Cloud Infrastructure Labs
+
+I'm working through hands-on labs across **AWS, Microsoft Azure, Google Cloud, Oracle Cloud, and IBM Cloud**. The goal is to understand how each provider handles identity, networking, compute, access, cost controls, and cleanup before automating deployments.
+
+* **AWS:** CLI and IAM, VPC and security groups, EC2, Systems Manager access, budgets, and a path from manual provisioning to Terraform.
+* **Azure:** CLI-based deployment and troubleshooting of a Linux VM, virtual network, network security group, and Bastion access.
+* **Google Cloud, Oracle Cloud, and IBM Cloud:** Provider setup and infrastructure labs that let me compare services and repeat the same core concepts.
+* **Across the labs:** Terraform for infrastructure as code; Ansible for configuration; Docker and Kubernetes for application deployment; Git and CI/CD for repeatable delivery.
+
+My current application deployment is on the Turing Pi K3s cluster. Deploying the same application to a cloud target and connecting the two environments is the next milestone.
+
+---
+
+# 📍 Current Work and Next Steps
+
+**Running now:** A seven-worker ARM64 Turing Pi K3s cluster; [Ops Atlas](https://github.com/shellback1998/ops-atlas) deployed from a local container registry and accessible through Tailscale; and the [Voting App](https://github.com/shellback1998/voting-app) as a multi-service Docker and Kubernetes lab.
+
+**Next:** Deploy Ops Atlas to the cloud with Terraform and Ansible, publish a multi-platform image for AMD64 and ARM64, add GitHub Actions to Ops Atlas for testing and delivery, and document monitoring, rollback, and cleanup.
+
+---
+
+# 📂 Public Project Index
+
+My public repositories trace my path from **Scrimba full-stack coursework** and JavaScript projects into Docker, Ansible, Kubernetes, and multi-cloud infrastructure. Some are completed exercises; others are active labs.
+
+### DevOps and engineering
+
+* [Ops Atlas](https://github.com/shellback1998/ops-atlas) · [Turing K3s Lab](https://github.com/shellback1998/turing-k8s) · [Voting App](https://github.com/shellback1998/voting-app)
+* [Turing Pi Ansible](https://github.com/shellback1998/turing-pi-ansible) · [Multi-Compose Lab](https://github.com/shellback1998/multi-compose-lab) · [Hexagon](https://github.com/shellback1998/Hexagon)
+
+### Web and application projects
+
+* [Blackjack](https://github.com/shellback1998/blackjack) · [Basketball Scoreboard](https://github.com/shellback1998/basketballscoreboard) · [Jargon Jumble](https://github.com/shellback1998/jargon_jumble)
+* [Chrome Extension](https://github.com/shellback1998/chromeextension) · [Passenger Counter](https://github.com/shellback1998/passengercounter) · [Unit Converter](https://github.com/shellback1998/unitconverter)
+* [My To-Do App](https://github.com/shellback1998/my-todo-app) · [Todos](https://github.com/shellback1998/todos) · [SQLite Student Management](https://github.com/shellback1998/app13-sqlite-student-management)
+* [Company Website](https://github.com/shellback1998/Student_App_1_Company_Website) · [Hometown Homepage](https://github.com/shellback1998/hometownhomepage) · [Business Card](https://github.com/shellback1998/businesscard)
+* [Birthday Gift Site](https://github.com/shellback1998/birthdaygiftsite) · [Space Exploration](https://github.com/shellback1998/spaceexploration)
+* [Payup](https://github.com/shellback1998/payup) · [Insanely Expensive JPEGs](https://github.com/shellback1998/insanely-expensive-jpegs) · [Hello World](https://github.com/shellback1998/HelloWorld)
 
 ---
 
