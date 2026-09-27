@@ -440,6 +440,28 @@ My public repositories trace my path from **Scrimba full-stack coursework** and 
 
 ---
 
+<!-- observatory-projects:start -->
+# Turing Observatory
+
+I built a private, phone-friendly dashboard for my homelab. It monitors seven Turing Pi nodes, manager VMs, Kubernetes nodes and pods, Docker images, and my cloud labs. Cloud cards show monthly budgets, spending, available credit data, and when each result was last checked.
+
+The dashboard also provides fixed diagnostic actions, controls for a separate Engineering Lab website, and a Terraform workflow that requires reviewing a plan before applying it.
+
+**Tech stack:** Python, SSH, Kubernetes, Tailscale, cloud APIs, Terraform, and Git.
+
+---
+
+# Engineering Lab Website
+
+This separate website runs on my Turing Pi K3s cluster. Its Kubernetes deployment displays the Git revision currently running. From Turing Observatory, I can deploy or stop the site and watch its replica and service status.
+
+Together with the independent Ops Atlas app, these projects demonstrate the lifecycle from source code and version control through deployment and monitoring. The sites and dashboard are accessible within my private tailnet.
+
+**Tech stack:** HTML, CSS, GitHub, K3s, kubectl, and Tailscale.
+
+---
+<!-- observatory-projects:end -->
+
 # 🌐 Connect With Me
 
 I'm always interested in connecting with developers, engineers, homelab enthusiasts, lifelong learners, and others working at the intersection of software, engineering, automation, and DevOps.
